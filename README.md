@@ -1,5 +1,5 @@
-# Spotify-Music-Data-Analysis-using-SQL
-# Spotify Advanced SQL Project and Query Optimization P-6
+
+# Spotify SQL Project and Query Optimization
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
